@@ -9,3 +9,4 @@ $( document ).ready(function() {
     console.log(data[3]);
     console.log(data[4]);
 });
+})
