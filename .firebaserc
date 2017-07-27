@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "tech-tracker-a082b"
+    "default": "tech-tracker-a082b",
+    "staging": "tech-tracker-a082b"
   }
 }
