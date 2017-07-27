@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "week9Proj",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
