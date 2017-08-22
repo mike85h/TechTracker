@@ -1,4 +1,5 @@
-const URL = "http://localhost:8080/";
+// const URL = "http://localhost:8080/";
+const URL = "https://floating-refuge-46723.herokuapp.com/"
 
 $('document').ready(function(){
   console.log('jsconnected');
